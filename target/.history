@@ -1,0 +1,16 @@
+exit
+console
+run
+run Array(1,2,3,4,5,6,6,7,7,7,7,7,7,7,7,7,7,7,7)
+run Array(1,2,3,4,5,6,6,7,7)
+run
+console
+run
+console
+run
+console
+run
+4
+run
+test:compile
+run

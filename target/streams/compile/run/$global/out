@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mRunning implementations.Main [0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/matt/Documents/UNI/Algorithms/implementations/target/scala-2.9.1/classes[0m
+[0m[[0mdebug[0m] [0m	/home/matt/.sbt/0.12.0/boot/scala-2.9.1/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/home/matt/.ivy2/cache/org.specs2/specs2_2.9.1/jars/specs2_2.9.1-1.8.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/matt/.ivy2/cache/org.specs2/specs2-scalaz-core_2.9.1/jars/specs2-scalaz-core_2.9.1-6.0.1.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

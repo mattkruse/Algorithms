@@ -1,0 +1,8 @@
+import sbt._
+import Keys._
+
+name := "Algorithm-Implementations"
+
+libraryDependencies ++= Seq(
+  "org.specs2" %% "specs2" % "1.8.1"
+)
